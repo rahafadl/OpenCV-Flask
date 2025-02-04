@@ -30,7 +30,9 @@ pip install opencv-python flask
 قم بتشغيل  بواسطه موجهه الاوامر :
 
 cd C:\Users\-\Documents\chat
+
 ثم
+
 python edge_detection.py
 
 
